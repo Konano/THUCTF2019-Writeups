@@ -4,7 +4,7 @@
 
 ## Crypto
 
-- xor cipher
+- [xor cipher](./Crypto/xor_cipher.md)
 - Easy RSA
 - Faulty AES
 - M1X
@@ -24,4 +24,3 @@
 - ICS Scavengers
 - Box
 - Wdnmd
-
