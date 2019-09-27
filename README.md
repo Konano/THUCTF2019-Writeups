@@ -5,7 +5,7 @@
 ## Crypto
 
 - [xor cipher](./Crypto/xor_cipher.md)
-- Easy RSA
+- [Easy RSA](./Crypto/easy_rsa.md)
 - Faulty AES
 - M1X
 - cookie_manager
