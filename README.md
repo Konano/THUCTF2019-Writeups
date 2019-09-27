@@ -17,9 +17,9 @@
 
 ## Misc
 
-- 入域
-- Mingology
-- ListenToMe
+- [入域](./Misc/入域.md)
+- [Mingology](./Misc/Mingology.md)
+- [ListenToMe](./Misc/ListenToMe.md)
 - NewCoinGame
 - ICS Scavengers
 - Box
