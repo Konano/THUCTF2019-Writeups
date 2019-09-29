@@ -6,7 +6,7 @@
 
 - [xor cipher](./Crypto/xor_cipher.md)
 - [Easy RSA](./Crypto/easy_rsa.md)
-- Faulty AES
+- [Faulty AES](./Crypto/Faulty_AES.md)
 - M1X
 - cookie_manager
 
@@ -18,9 +18,9 @@
 ## Misc
 
 - [入域](./Misc/入域.md)
-- [Mingology](./Misc/Mingology.md)
+- Mingology
 - [ListenToMe](./Misc/ListenToMe.md)
-- NewCoinGame
+- [NewCoinGame](./Misc/NewCoinGame.md)
 - ICS Scavengers
 - Box
-- Wdnmd
+- [Wdnmd](./Misc/Wdnmd.md)
