@@ -12,15 +12,15 @@
 
 ## Reverse
 
-- Auth
-- NoCode
+- [Auth](./Reverse/Auth.md)
+- [NoCode](./Reverse/NoCode.md)
 
 ## Misc
 
 - [入域](./Misc/入域.md)
-- Mingology
+- [Mingology](./Misc/Mingology.md)
 - [ListenToMe](./Misc/ListenToMe.md)
 - [NewCoinGame](./Misc/NewCoinGame.md)
-- ICS Scavengers
+- [ICS Scavengers](./Misc/ICS_Scavengers.md)
 - Box
 - [Wdnmd](./Misc/Wdnmd.md)
