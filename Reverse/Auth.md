@@ -6,7 +6,7 @@
 
 首先反编译 `auth`，得到主程序：
 
-![1569930456776](assets/1569930456776.png)
+![auth](assets/auth.png)
 
 观察可知其主要逻辑为先读入一个 Flag，然后经过 aetxx_encrypt 和 ext64_encode 得到一个密文，再将这个密文和图内的 s2 进行比较。从而可以知道 s2 便是正确的 Flag 经过加密后的密文。
 
