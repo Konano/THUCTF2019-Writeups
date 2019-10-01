@@ -7,8 +7,8 @@
 - [xor cipher](./Crypto/xor_cipher.md)
 - [Easy RSA](./Crypto/easy_rsa.md)
 - [Faulty AES](./Crypto/Faulty_AES.md)
-- M1X
-- cookie_manager
+- [M1X](./Crypto/m1x.md)
+- [cookie_manager](./Crypto/cookie_manager.md)
 
 ## Reverse
 
@@ -22,5 +22,5 @@
 - [ListenToMe](./Misc/ListenToMe.md)
 - [NewCoinGame](./Misc/NewCoinGame.md)
 - [ICS Scavengers](./Misc/ICS_Scavengers.md)
-- Box
+- [Box](./Misc/Box.md)
 - [Wdnmd](./Misc/Wdnmd.md)
